@@ -1,7 +1,7 @@
 # Meddelandecentralen
 
-Jag har valt att implementera denna idé från VD:n lista:
-**2. En chatt där alla kan prata med alla, "som Slack ungefär".**
+
+** En chatt där alla kan prata med alla, "som Slack ungefär".**
 
 ## Installation
 1. cd into `API/Chatty.Api` the run this command, `dotnet run`.
